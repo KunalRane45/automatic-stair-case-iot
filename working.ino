@@ -1,4 +1,4 @@
- const int ir1 = 4;
+const int ir1 = 4;
 const int ir2 = 3;
 int inputVal = 0;
 int decide = 0;
